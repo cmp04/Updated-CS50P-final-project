@@ -5,7 +5,7 @@ Revamping my final project!
 
 ### _Screenshot of Program:_
 <p>
-    <img src="../project/image.png" alt="Image">
+    <img src="3E31CF7F-D8F5-4708-88A6-680987CC6D54_1_201_a.jpeg" alt="Image">
 </p>
 
 ## Implemented the csv & tabulate modules.
