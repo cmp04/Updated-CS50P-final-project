@@ -13,7 +13,7 @@ Revamping my final project!
 
 ### _csv file:_
 <p>
-  <img src="" alt="csv_image">
+  <img src="B63B46DE-AFC5-428A-86BB-B87E816C0D84_4_5005_c.jpeg" alt="csv_image">
 </p>
 
 ### _tabulate_output:_
