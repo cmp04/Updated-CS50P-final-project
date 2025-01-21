@@ -16,7 +16,7 @@ Revamping my final project!
   <img src="B63B46DE-AFC5-428A-86BB-B87E816C0D84_4_5005_c.jpeg" alt="csv_image">
 </p>
 
-### _tabulate_output:_
+### _updated_project.py output:_
 <p>
   <img src="710C8C29-C43A-4FC6-87D2-33FC38213BDC_1_201_a.jpeg" alt="tabulate">
 </p>
